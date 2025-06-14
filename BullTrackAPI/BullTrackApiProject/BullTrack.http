@@ -1,0 +1,6 @@
+@CarryOn_HostAddress = http://localhost:5139
+
+GET {{CarryOn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,61 @@
+﻿## .NET general ##
+bin/
+obj/
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+*.log
+
+## VS Code ##
+.vscode/
+.history/
+
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test results ##
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## ASP.NET / Web ##
+wwwroot/lib/
+node_modules/
+bundleconfig.json
+dist/
+npm-debug.log
+yarn-error.log
+
+## Entity Framework ##
+*.db
+Migrations/
+
+## Publish output ##
+publish/
+out/
+
+## Configuración personalizada que no va al repo ##
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+## Otros ##
+*.tmp
+*.bak
+*.swp
+_ReSharper*/
+.idea/
+*.vsidx
+.DS_Store
+Thumbs.db
