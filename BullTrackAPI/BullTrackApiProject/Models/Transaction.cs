@@ -1,6 +1,6 @@
 ﻿namespace CarryOn.Models
 {
-    public class Usuario
+    public class Transaction
     {
     }
 }

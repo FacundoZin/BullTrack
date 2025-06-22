@@ -1,6 +1,6 @@
 ﻿namespace CarryOn.Models
 {
-    public class Pago
+    public class Pay
     {
     }
 }
